@@ -5,7 +5,7 @@ align="center">
   <img
   alt="dev.finances"
   title="dev.finances"
-  src=".github/logo.svg"
+  src="https://github.com/Ciro-TI-System/DevFinances/blob/main/images/logo.svg"
   width="220px"
   />
 </h1>
@@ -43,7 +43,7 @@ Imagem da aplicação
 align="center">
   <img
   alt="dev.finances"
-  src=".github/devfinances.png"
+  src="https://github.com/Ciro-TI-System/DevFinances/blob/main/images/devfinances.jpg"
   width="100%">
 </p>
 
